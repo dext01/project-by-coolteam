@@ -1,0 +1,5 @@
+Pillow
+requests
+PyMuPDF
+pytesseract
+pdf2image
